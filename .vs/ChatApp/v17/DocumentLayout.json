@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PEA\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BC3D2B-5A92-45C9-9CB9-557CE4384683}|ChatApp\\ChatApp.csproj|c:\\pea\\chatapp\\chatapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34BC3D2B-5A92-45C9-9CB9-557CE4384683}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BC3D2B-5A92-45C9-9CB9-557CE4384683}|ChatApp\\ChatApp.csproj|C:\\PEA\\ChatApp\\chatapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BC3D2B-5A92-45C9-9CB9-557CE4384683}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\PEA\\ChatApp\\ChatApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatApp\\MainWindow.xaml",
+              "ToolTip": "C:\\PEA\\ChatApp\\ChatApp\\MainWindow.xaml",
+              "RelativeToolTip": "ChatApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T02:47:20.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\PEA\\ChatApp\\ChatApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\PEA\\ChatApp\\ChatApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:47:18.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
